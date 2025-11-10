@@ -18,7 +18,7 @@
 </body>
 </html>
 ```
-# FOTO
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5125dcd2-5ca6-4ed7-b363-c3e02dfc450a" />
 
 ```php
 <?php
@@ -28,7 +28,7 @@ echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
 ```
-# FOTO
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4801e11-bdf4-4ce4-8dcf-684eada2d6cb" />
 
 ```PHP
 <?php
@@ -38,14 +38,14 @@ echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
 ```
-# FOTO
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d630d44f-ce44-48c9-b80a-d996e48f57ab" />
 
 ```
 <?php
 echo 'Selamat Datang ' . $_GET['nama'];
 ?>
 ```
-# FOTO
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5f75761b-0639-4e73-a863-38a92c15d0e5" />
 
 ```html
 <!DOCTYPE html>
@@ -67,8 +67,8 @@ echo 'Selamat Datang ' . $_POST['nama'];
 </body>
 </html>
 ```
-# FOTO
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/31e665ea-5fa5-435e-be9e-fe1ef1110ef3" />
 
 ```php
 Operator
@@ -141,3 +141,6 @@ do {
     $i++;
 } while ($i<=10);
 ?>
+```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/20b6afa2-2ce3-4b1c-9b8e-16f5eb0fe9de" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0f364dc6-745f-40af-a8d2-8c5139d15136" />
